@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Puzzle\deneme\bin\Debug\deneme.exe.config
+C:\Users\ibrah\Desktop\Puzzle\deneme\bin\Debug\deneme.exe
+C:\Users\ibrah\Desktop\Puzzle\deneme\bin\Debug\deneme.pdb
+C:\Users\ibrah\Desktop\Puzzle\deneme\obj\Debug\Puzzle.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\Puzzle\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\ibrah\Desktop\Puzzle\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Puzzle\deneme\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Puzzle\deneme\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Puzzle\deneme\obj\Debug\deneme.exe
+C:\Users\ibrah\Desktop\Puzzle\deneme\obj\Debug\deneme.pdb
